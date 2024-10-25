@@ -5,7 +5,9 @@ public class Product {
     public double price;
     public int quantity;
 
-    public Product(String name, double price, int quantity){
+    public Product(){} // constructor padrão
+
+    public Product(String name, double price, int quantity){ // constructor personalizado
         this.name = name;
         this.price = price;
         this.quantity = quantity;
