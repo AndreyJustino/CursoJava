@@ -1,9 +1,10 @@
 package entities;
 
 public class Product {
-    public String name;
-    public double price;
-    public int quantity;
+    //atributos
+    private String name;
+    private double price;
+    private int quantity;
 
     public Product(){} // constructor padrão
 
@@ -13,6 +14,30 @@ public class Product {
         this.quantity = quantity;
     }
 
+    // get e set , encapsulamentos
+    public String getName(){
+        return name;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public double getPrice(){
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+    
+    //---------------------------------------------------------------------------
+
+    // metodos
     public double totalValueInStock(){
         return this.quantity * price;
     }
