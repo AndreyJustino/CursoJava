@@ -11,14 +11,16 @@ public class Estoque {
 
         Scanner sc = new Scanner(System.in);
 
-        Product product1 = new Product();
-
         System.out.println("Digite o nome do produto");
-        product1.name = sc.next();
+        String name = sc.next();
+
         System.out.println("Digite o preço do produto");
-        product1.price = sc.nextDouble();
+        double price = sc.nextDouble();
+
         System.out.println("Digite a quantidade do produto");
-        product1.quantity = sc.nextInt();
+        int quantity = sc.nextInt();
+
+        Product product1 = new Product(name, price, quantity); // agora é obrigatorio passa parametro
 
         System.out.println(product1.toString());
 
