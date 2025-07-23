@@ -34,7 +34,7 @@ public class Account {
     public void withdraw(Double amount){
 
         if (this.balance > 0) {
-            this.balance =- amount;
+            this.balance =- amount + 5;
         }else {
             System.out.println("Saldo insuficiente");
         }

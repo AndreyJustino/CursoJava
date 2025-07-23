@@ -23,10 +23,13 @@ public final class SavingAccount extends Account{ //final impede que essa classe
     }
 
     @Override
-    public String toString() {
-        return "SavingAccount{" +
-                "interestRate=" + interestRate +
-                ", balance=" + balance +
-                '}';
+    public void withdraw(Double amount){
+
+        if (this.balance > 0) {
+            this.balance =- amount;
+        }else {
+            System.out.println("Saldo insuficiente");
+        }
+
     }
 }
