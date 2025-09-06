@@ -55,4 +55,18 @@ public class Product {
         this.setPrice(this.getPrice() * 1.1);
     }
 
+    //----------------------------------------
+
+    //-------------------------------------- function
+    public static String staticProductFunction(Product p){
+        return p.getName().toUpperCase();
+    }
+
+    public String noStaticProductFunction(){
+        return this.getName().toUpperCase();
+    }
+
+    //----------------------------------------
+
+
 }
