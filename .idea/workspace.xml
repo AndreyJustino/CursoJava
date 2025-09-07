@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aea475c9-5725-4793-b332-51ab8a08f4db" name="Changes" comment="interface e metodo default">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/aplication/CalculoTriangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/aplication/Estoque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/aplication/membroEstatico/Parte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/aplication/membroEstatico/Parte1_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/entities/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/src/util/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/manipulandoPastas/ManipulandoPastas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/reader/BufferAndFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/reader/TryWithResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivosEmJava/src/writer/BufferAndFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casting/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAbstratas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAbstratas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAbstratas/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAbstratas/src/entities/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAbstratas/src/entities/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coringa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coringa/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coringa/src/parte2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coringa/src/parte2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coringa/src/parte2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/src/CalculoComTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/src/DataGlobalParaLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/src/FormatoPersonalizado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultMethod/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultMethod/src/BrazilianInterestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultMethod/src/InterestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultMethod/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeracoes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeracoes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeracoes/src/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeracoes/src/StatusOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura-for/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura-for/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excecoes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excecoes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excecoes/src/entities/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excecoes/src/exception/DataInferior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forEach/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forEach/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcoes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcoes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/src/parte1/PrintService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/src/parte2/CalculationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/src/parte2/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generico/src/parte2/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/src/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/src/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface-abstracao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface-abstracao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/entities/CarRental.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/entities/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/entities/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/service/BrazilTaxService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/service/RentalService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface/src/service/TaxService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceComparable/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceComparable/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceComparable/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceComparable/src/in.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introducaoFormate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introducaoFormate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/bonusFunctionInFunction/FunctionInFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/bonusFunctionInFunction/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/consumer/MainConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/consumer/ProductConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/function/MainFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/function/ProductFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/predicate/MainPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/src/predicate/ProductPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maps/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matematica/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matematica/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrix/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodoString/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodoString/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/src/entities/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/src/entities/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/src/entities/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodosAbstrados/src/entities/enums/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scannerJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scannerJava/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ternario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ternario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ternario/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/src/Parte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/src/Parte2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/src/entites/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/while/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/while/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndreyJustino&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndreyJustino/CursoJava.git&quot;,
+    &quot;accountId&quot;: &quot;509ed82b-4caf-4475-8ecc-13cf61c37e98&quot;
+  }
+}</component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mzX9i68qt14cKyQ2P7kynLkXsq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Temp/ws-java/curso_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aea475c9-5725-4793-b332-51ab8a08f4db" name="Changes" comment="" />
+      <created>1728080228605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728080228605</updated>
+    </task>
+    <task id="LOCAL-00001" summary="tipo coringa em java">
+      <option name="closed" value="true" />
+      <created>1756251495455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756251495455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tipo generico em java">
+      <option name="closed" value="true" />
+      <created>1756251519135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756251519135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="interface e metodo default">
+      <option name="closed" value="true" />
+      <created>1756251537083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756251537083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tipo coringa em java" />
+    <MESSAGE value="tipo generico em java" />
+    <MESSAGE value="interface e metodo default" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface e metodo default" />
+  </component>
+</project>
